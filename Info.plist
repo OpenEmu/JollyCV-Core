@@ -35,7 +35,7 @@
 		</dict>
 	</dict>
 	<key>OEGameCorePlayerCount</key>
-	<string>2</string>
+	<integer>2</integer>
 	<key>OEProjectURL</key>
 	<string>https://gitlab.com/jgemu/jollycv</string>
 	<key>OESystemIdentifiers</key>
@@ -43,7 +43,7 @@
 		<string>openemu.system.colecovision</string>
 	</array>
 	<key>SUEnableAutomaticChecks</key>
-	<string>1</string>
+	<true/>
 	<key>SUFeedURL</key>
 	<string>https://raw.github.com/OpenEmu/OpenEmu-Update/master/jollycv_appcast.xml</string>
 </dict>
